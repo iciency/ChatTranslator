@@ -54,7 +54,3 @@ client_secret = "YOUR_PAPAGO_CLIENT_SECRET"
 ## Contributing
 
 Bug reports and feature requests are welcome! Please open an issue on GitHub. Pull requests are also greatly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
